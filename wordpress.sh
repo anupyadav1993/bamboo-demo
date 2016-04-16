@@ -1,5 +1,6 @@
 #!/bin/bash
 S_TIME=`date +%H:%M:%S`
+echo "hi"
 echo "Installing wordpress"
 sudo apt-get update
 echo "---------- intsalling Nginx -------------------"
